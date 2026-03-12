@@ -15,7 +15,7 @@ This portfolio is
 
 * **Short-horizon alpha research:** trend, mean reversion, residual and regime-conditioned signals - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/alpha-research.md)
 * **Market microstructure:** order-book imbalance, order-flow imbalance, liquidity and local equilibrium behaviour - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/microstructure.md)
-* **Backtesting and simulation:** walk-forward validation, transaction-cost-aware evaluation, parameter testing, robustness checks - [link]()
+* **Backtesting and simulation:** walk-forward validation, transaction-cost-aware evaluation, parameter testing, robustness checks - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/backtesting.md)
 * **Execution-aware research:** slippage, spread, impact, participation logic, tradability vs theoretical alpha - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/execution-simulation.md)
 * **Crypto adaptation:** applying systematic research frameworks to BTC and selected altcoins using exchange-based data - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/crypto-adaption.md)
 

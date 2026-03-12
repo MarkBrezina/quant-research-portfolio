@@ -14,3 +14,5 @@ The framework also emphasizes that alpha is only useful if it survives implement
 
 
 In short, alpha research in this framework is not just signal discovery. It is a structured, multi-layer process for converting data, theory, and market structure into scalable trading strategies that can be combined, risk-managed, and executed in a coherent portfolio architecture. It is designed to be iterative, evidence-driven, and extensible across markets and time horizons.
+
+[link to alpha & backtesting repo](https://github.com/MarkBrezina/Alpha-Research-Backtesting)

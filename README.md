@@ -10,11 +10,11 @@ This repository is a curated portfolio for quant research roles. It is intended 
 
 ## What this portfolio covers
 
-* **Short-horizon alpha research:** trend, mean reversion, residual and regime-conditioned signals
-* **Market microstructure:** order-book imbalance, order-flow imbalance, liquidity and local equilibrium behaviour
-* **Backtesting and simulation:** walk-forward validation, transaction-cost-aware evaluation, parameter testing, robustness checks
-* **Execution-aware research:** slippage, spread, impact, participation logic, tradability vs theoretical alpha
-* **Crypto adaptation:** applying systematic research frameworks to BTC and selected altcoins using exchange-based data
+* **Short-horizon alpha research:** trend, mean reversion, residual and regime-conditioned signals - [link]()
+* **Market microstructure:** order-book imbalance, order-flow imbalance, liquidity and local equilibrium behaviour - [link]()
+* **Backtesting and simulation:** walk-forward validation, transaction-cost-aware evaluation, parameter testing, robustness checks - [link]()
+* **Execution-aware research:** slippage, spread, impact, participation logic, tradability vs theoretical alpha - [link]()
+* **Crypto adaptation:** applying systematic research frameworks to BTC and selected altcoins using exchange-based data - [link]()
 
 ---
 

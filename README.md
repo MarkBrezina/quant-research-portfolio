@@ -4,8 +4,9 @@
 
 I am a quantitative researcher and developer focused on short-horizon to mid-frequency systematic trading research. My work centers on predictive signal design, market microstructure, regime-aware modelling, execution-aware backtesting, and portfolio/risk integration across traditional and digital-asset markets.
 
-This repository is a curated portfolio for quant research roles. It is intended as a guided entry point into my public work, with emphasis on the projects most relevant to alpha research, execution, and systematic trading.
+This repository is a curated portfolio for quant research roles. It is intended as a guided entry point into my public work, with emphasis on the projects most relevant to alpha research, execution, and systematic trading.\
 
+!Disclaimer! This portfolio is mostly meant for superficial quick overviews, I have therefore made links into the further practical work
 ---
 
 ## What this portfolio covers

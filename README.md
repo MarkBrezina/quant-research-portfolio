@@ -4,18 +4,20 @@
 
 I am a quantitative researcher and developer focused on short-horizon to mid-frequency systematic trading research. My work centers on predictive signal design, market microstructure, regime-aware modelling, execution-aware backtesting, and portfolio/risk integration across traditional and digital-asset markets.
 
-This repository is a curated portfolio for quant research roles. It is intended as a guided entry point into my public work, with emphasis on the projects most relevant to alpha research, execution, and systematic trading.\
+This repository is a curated portfolio for quant research roles. It is intended as a guided entry point into my public work, with emphasis on the projects most relevant to alpha research, execution, and systematic trading.
 
-!Disclaimer! This portfolio is mostly meant for superficial quick overviews, I have therefore made links into the further practical work
+disclaimer!\
+This portfolio is 
+
 ---
 
 ## What this portfolio covers
 
-* **Short-horizon alpha research:** trend, mean reversion, residual and regime-conditioned signals - [link]()
-* **Market microstructure:** order-book imbalance, order-flow imbalance, liquidity and local equilibrium behaviour - [link]()
+* **Short-horizon alpha research:** trend, mean reversion, residual and regime-conditioned signals - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/alpha-research.md)
+* **Market microstructure:** order-book imbalance, order-flow imbalance, liquidity and local equilibrium behaviour - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/microstructure.md)
 * **Backtesting and simulation:** walk-forward validation, transaction-cost-aware evaluation, parameter testing, robustness checks - [link]()
-* **Execution-aware research:** slippage, spread, impact, participation logic, tradability vs theoretical alpha - [link]()
-* **Crypto adaptation:** applying systematic research frameworks to BTC and selected altcoins using exchange-based data - [link]()
+* **Execution-aware research:** slippage, spread, impact, participation logic, tradability vs theoretical alpha - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/execution-simulation.md)
+* **Crypto adaptation:** applying systematic research frameworks to BTC and selected altcoins using exchange-based data - [link](https://github.com/MarkBrezina/quant-research-portfolio/blob/main/docs/crypto-adaption.md)
 
 ---
 

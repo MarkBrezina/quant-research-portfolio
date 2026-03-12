@@ -1,4 +1,4 @@
-https://colab.research.google.com/drive/1C1FSH4kOTEq42hP6LK-Q5lyVofiJJFD1?authuser=1
+
 
 ## Execution Simulation and Market Simulation Research
 
@@ -11,3 +11,5 @@ A key part of the planned development is to make these agents more realistic by 
 The broader objective of this research is not just to generate synthetic prices, but to build a simulation environment that can be used to study execution quality, market impact, liquidity dynamics, and the structural mechanics of trading. Agent-based liquidity and microstructure models are increasingly used for this kind of purpose, including the study of transaction costs, large-order execution, market design, and rule changes such as tick-size adjustments or settlement protocols.
 
 An important future layer of this work is visualization. I want to accompany the simulations with animations that make the mechanics of the market easier to interpret: how orders enter and leave the book, how liquidity shifts across the bid and ask, how different agent types interact, and how local imbalances can grow into broader price movements. That kind of visual approach is especially useful in market simulation research because the value of the model often lies in understanding emergent behaviour, not just final summary statistics. This last point is an inference from the modelling goals you described, rather than a claim drawn directly from the sources. The underlying literature does support the use of simulated markets to study intraday price formation and emergent market structure.
+
+[Link to repo](https://github.com/MarkBrezina/Execution-Microstructure-Simulation)

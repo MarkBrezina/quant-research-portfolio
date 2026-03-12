@@ -27,13 +27,9 @@ This portfolio is
 
 Framework-first research repository covering market structure, simulation, empirical validation, and open research problems with reproducible baselines.
 
-**Relevant to Wintermute because:** it shows how I think about market structure, layered pricing, simulation, empirical testing, and the bridge between research questions and implementable quantitative workflows.
-
 ### 2) [TMRW](https://github.com/MarkBrezina/TMRW)
 
 Research-grade multi-horizon algorithmic trading framework spanning data, research, backtesting, analytics, and broader strategy architecture.
-
-**Relevant to Wintermute because:** it reflects my broader trading-system architecture and the way I organise strategy research, portfolio logic, and execution considerations in a modular form.
 
 ### 3) [GitHub Profile Overview](https://github.com/MarkBrezina)
 
@@ -91,9 +87,7 @@ I am particularly interested in roles at the intersection of:
 * market microstructure and execution
 * digital assets and exchange-based trading
 * predictive modelling and systematic strategy design
-
-Wintermute is especially compelling to me because of its combination of strong quantitative infrastructure, market microstructure depth, and focus on adapting robust systematic research into live digital-asset trading.
-
+* 
 ---
 
 ## Contact

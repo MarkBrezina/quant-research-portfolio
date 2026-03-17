@@ -22,7 +22,7 @@ This repository is a curated portfolio for quant roles. It is intended as a guid
 
 ## Start here
 
-### 1) [Foundational Quantitative Research](https://github.com/MarkBrezina/Foundational-Quantitative-Research)
+### 1*) [Foundational Quantitative Research](https://github.com/MarkBrezina/Foundational-Quantitative-Research)
 
 Framework-first research repository covering market structure, simulation, empirical validation, and open research problems with reproducible baselines.
 
